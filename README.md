@@ -1,5 +1,5 @@
 ## Numerically Accurate Hyperbolic Embeddings Using Tiling-Based Models
-<img align="right" src="H266.png" width="250px" />
+<img align="left" src="H266.png" width="250px" />
 
 #### Authors:
 * [Tao Yu](http://www.cs.cornell.edu/~tyu/)
