@@ -8,7 +8,7 @@
 
 ### Introduction
 This repo contains official code and models for the NeurIPS 2019 paper,
-[Numerically Accurate Hyperbolic Embeddings Using Tiling-Based Models]().
+[Numerically Accurate Hyperbolic Embeddings Using Tiling-Based Models](https://papers.nips.cc/paper/8476-numerically-accurate-hyperbolic-embeddings-using-tiling-based-models.pdf).
 Our method can compress a poincare embedding on WordNet Nouns down to 2% of the original size.
 
 
@@ -20,7 +20,8 @@ Our method can compress a poincare embedding on WordNet Nouns down to 2% of the 
 * ArgParse
 
 ### Data
-We include embeddings of three datasets in dataset folder: Gr-QC, WordNet Nouns and Bio-yeast.
+We include embeddings of three datasets in dataset folder: Gr-QC, Bio-yeast, and WordNet Nouns. Specifically, download
+`wordnet2h-comb1.emb` [here](https://drive.google.com/file/d/1Q8qPNxq_GCLv2grRp7ycOpQxHZzoJ9JI/view?usp=sharing).
 
 ### Structure and Usage:
 `Hyperbolic.jl` contains function required for compression;
